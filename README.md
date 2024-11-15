@@ -1,1 +1,1 @@
-# Myself, <span style="color:blue">Yuvraj Rathod</span>
+# Myself, <font style="color:blue">Yuvraj Rathod</font>
